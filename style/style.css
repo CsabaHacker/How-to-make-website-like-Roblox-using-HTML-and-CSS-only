@@ -23,7 +23,7 @@ body {  font-family: "Open Sans", sans-serif;}
 
 /* Large Screen */
 @media (min-width: 1200px) {
-  .container {    width: 1190px;  }
+
 }
 
 /* Very Large Screen */
