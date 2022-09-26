@@ -1,5 +1,11 @@
 /* Global rules */
 
+:root {  --mainColor: #dee1e3;}
+* {  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;
+  box-sizing: border-box;}
+body {  font-family: "Open Sans", sans-serif;}
+
+
 /* Mob Screen */
 @media (min-width: 576px) {
   
